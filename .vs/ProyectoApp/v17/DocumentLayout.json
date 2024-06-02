@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\migrations\\20240523033215_model_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\migrations\\20240523033215_model_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240523033215_Model_Users.cs",
+              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Migrations\\20240523033215_Model_Users.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Migrations\\20240523033215_Model_Users.cs",
+              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Migrations\\20240523033215_Model_Users.cs",
+              "RelativeToolTip": "Proyecto\\Migrations\\20240523033215_Model_Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:32:48.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "Proyecto\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:00:34.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Data\\DataContext.cs",
+              "RelativeToolTip": "Proyecto\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:57:04.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Models\\User.cs",
+              "RelativeToolTip": "Proyecto\\Models\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:04:03.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Program.cs",
+              "RelativeToolTip": "Proyecto\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:28:45.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
