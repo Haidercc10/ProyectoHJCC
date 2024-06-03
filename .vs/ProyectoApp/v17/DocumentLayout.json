@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\controllers\\typeuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\controllers\\typeuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\models\\typeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\models\\typeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\migrations\\20240602224836_typeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\migrations\\20240602224836_typeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\migrations\\20240523033215_model_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\migrations\\20240523033215_model_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\haider\\source\\repos\\proyectoapp\\proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240602224836_TypeUser.cs",
-              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Migrations\\20240602224836_TypeUser.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Migrations\\20240602224836_TypeUser.cs",
-              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Migrations\\20240602224836_TypeUser.cs",
-              "RelativeToolTip": "Proyecto\\Migrations\\20240602224836_TypeUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAgAAAA",
+              "DocumentIndex": 0,
+              "Title": "TypeUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Controllers\\TypeUsersController.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Controllers\\TypeUsersController.cs",
+              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Controllers\\TypeUsersController.cs",
+              "RelativeToolTip": "Proyecto\\Controllers\\TypeUsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T22:49:17.852Z",
+              "WhenOpened": "2024-06-03T00:24:33.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TypeUser.cs",
               "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Models\\TypeUser.cs",
               "RelativeDocumentMoniker": "Proyecto\\Models\\TypeUser.cs",
               "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Models\\TypeUser.cs",
               "RelativeToolTip": "Proyecto\\Models\\TypeUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T22:30:18.219Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240523033215_Model_Users.cs",
-              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Migrations\\20240523033215_Model_Users.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Migrations\\20240523033215_Model_Users.cs",
-              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Migrations\\20240523033215_Model_Users.cs",
-              "RelativeToolTip": "Proyecto\\Migrations\\20240523033215_Model_Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T03:32:48.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StatusController.cs",
-              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Controllers\\StatusController.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Controllers\\StatusController.cs",
-              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Controllers\\StatusController.cs",
-              "RelativeToolTip": "Proyecto\\Controllers\\StatusController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAABAAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T22:00:34.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Data\\DataContext.cs",
-              "RelativeToolTip": "Proyecto\\Data\\DataContext.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T21:57:04.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Models\\User.cs",
-              "RelativeToolTip": "Proyecto\\Models\\User.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAiwE4AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T04:04:03.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Program.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Program.cs",
-              "ToolTip": "C:\\Users\\Haider\\source\\repos\\ProyectoApp\\Proyecto\\Program.cs",
-              "RelativeToolTip": "Proyecto\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T05:28:45.874Z"
             }
           ]
         }

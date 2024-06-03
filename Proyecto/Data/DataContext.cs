@@ -31,5 +31,6 @@ namespace Proyecto.Data
             modelBuilder.Entity<User>().HasOne(x => x.TypeUsers).WithMany().HasForeignKey(z => z.TypeUser_Id).OnDelete(DeleteBehavior.Restrict);
 
         }
+        public DbSet<Proyecto.Models.TypeUser> TypeUser { get; set; } = default!;
     }
 }
