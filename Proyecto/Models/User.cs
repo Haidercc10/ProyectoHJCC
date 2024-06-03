@@ -75,5 +75,8 @@ namespace Proyecto.Models
         [Column(TypeName = "varchar(max)")]
         public string? Us_Observation { get; set; }
 
+        public int TypeUser_Id { get; set; }
+        public TypeUser? TypeUsers { get; set; } 
+
     }
 }

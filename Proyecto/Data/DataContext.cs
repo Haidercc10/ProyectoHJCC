@@ -28,6 +28,8 @@ namespace Proyecto.Data
             modelBuilder.Entity<User>().HasOne(x => x.Statuses).WithMany().HasForeignKey(z => z.Status_Id).OnDelete(DeleteBehavior.Restrict);
             modelBuilder.Entity<User>().HasOne(x => x.Docs_Types).WithMany().HasForeignKey(z => z.DocType_Id).OnDelete(DeleteBehavior.Restrict);
             modelBuilder.Entity<User>().HasOne(x => x.Role).WithMany().HasForeignKey(z => z.Rol_Id).OnDelete(DeleteBehavior.Restrict);
+            modelBuilder.Entity<User>().HasOne(x => x.TypeUsers).WithMany().HasForeignKey(z => z.TypeUser_Id).OnDelete(DeleteBehavior.Restrict);
+
         }
     }
 }
