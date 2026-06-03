@@ -537,3 +537,5 @@ D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\Proyecto.pdb
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\ref\Proyecto.dll
+D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\appsettings.Production.json
+D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

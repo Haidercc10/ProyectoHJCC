@@ -5,6 +5,7 @@ var myAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
 var builder = WebApplication.CreateBuilder(args);
 
+Console.WriteLine($"--Environment: {builder.Environment.EnvironmentName}");
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -22,11 +23,11 @@ builder.Services.AddCors(x =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 app.UseDeveloperExceptionPage();
 
 app.UseHttpsRedirection();
