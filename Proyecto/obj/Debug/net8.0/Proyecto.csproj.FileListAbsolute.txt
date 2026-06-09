@@ -268,6 +268,7 @@ C:\Users\Haider\source\repos\ProyectoApp\Proyecto\bin\Debug\net8.0\runtimes\win\
 C:\Users\Haider\source\repos\ProyectoApp\Proyecto\obj\Debug\net8.0\Proyecto.sourcelink.json
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\appsettings.Development.json
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\appsettings.json
+D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\appsettings.Production.json
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Proyecto.staticwebassets.endpoints.json
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Proyecto.exe
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Proyecto.deps.json
@@ -276,15 +277,7 @@ D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Proyecto.pdb
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Azure.Core.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Azure.Identity.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\EntityFramework.SqlServer.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\EntityFramework.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Humanizer.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Web.Cors.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.AspNet.Identity.Core.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Net.Http.Formatting.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Web.Http.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Web.Http.Cors.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Build.dll
@@ -307,7 +300,13 @@ D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -329,7 +328,6 @@ D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Mono.TextTemplating.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\NuGet.Common.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\NuGet.Configuration.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
@@ -342,6 +340,7 @@ D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.ClientModel.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.CodeDom.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -349,7 +348,6 @@ D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Composition.Runtime.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Composition.TypedParts.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Data.SqlClient.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Drawing.Common.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Memory.Data.dll
@@ -504,11 +502,6 @@ D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
@@ -537,5 +530,4 @@ D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\Proyecto.pdb
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\ref\Proyecto.dll
-D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\appsettings.Production.json
 D:\Users\Haider Cantillo\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

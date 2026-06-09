@@ -92,6 +92,17 @@ public class UsersController : ControllerBase
         return NoContent();
     }
 
+    private int Example() 
+    {
+        int a = 10;
+        int b = a;
+
+        b = 20;
+
+        Console.WriteLine(a);
+        return a;
+    }
+
     private bool UserExists(long? us_id)
     {
         return _context.Users.Any(e => e.Us_Id == us_id);
