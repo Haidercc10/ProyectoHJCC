@@ -927,6 +927,191 @@
         }
       }
     },
+    "/api/Users": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/User"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/User"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/User"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/User"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/User"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/User"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Users/{us_id}": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "parameters": [
+          {
+            "name": "us_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/User"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/User"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/User"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Users"
+        ],
+        "parameters": [
+          {
+            "name": "us_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Users"
+        ],
+        "parameters": [
+          {
+            "name": "us_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -1064,6 +1249,107 @@
             "nullable": true
           },
           "typeUser_Description": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "User": {
+        "type": "object",
+        "properties": {
+          "us_Id": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "us_Code": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "us_Name": {
+            "type": "string",
+            "nullable": true
+          },
+          "docType_Id": {
+            "type": "string",
+            "nullable": true
+          },
+          "docs_Types": {
+            "$ref": "#/components/schemas/Document_Type"
+          },
+          "rol_Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "role": {
+            "$ref": "#/components/schemas/Roles"
+          },
+          "status_Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "statuses": {
+            "$ref": "#/components/schemas/Status"
+          },
+          "us_ProfessionalProfile": {
+            "type": "string",
+            "nullable": true
+          },
+          "us_DateBorn": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "us_CityBorn": {
+            "type": "string",
+            "nullable": true
+          },
+          "status_Civil": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "civilStatus": {
+            "$ref": "#/components/schemas/Status"
+          },
+          "us_Phone": {
+            "type": "string",
+            "nullable": true
+          },
+          "us_Email": {
+            "type": "string",
+            "nullable": true
+          },
+          "us_Adress": {
+            "type": "string",
+            "nullable": true
+          },
+          "us_CurrentCity": {
+            "type": "string",
+            "nullable": true
+          },
+          "us_DateCreation": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "us_HourCreation": {
+            "type": "string",
+            "nullable": true
+          },
+          "us_Password": {
+            "type": "string",
+            "nullable": true
+          },
+          "us_Observation": {
+            "type": "string",
+            "nullable": true
+          },
+          "typeUser_Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "typeUsers": {
+            "$ref": "#/components/schemas/TypeUser"
+          },
+          "us_Genre": {
             "type": "string",
             "nullable": true
           }
