@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Proyecto.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Proyecto.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Proyecto.Controllers.Document_TypeController",
     "Method": "GetDocuments_Types",
     "RelativePath": "api/Document_Type",

@@ -803,3 +803,7 @@ C:\Users\Usuario\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\Proyect
 C:\Users\Usuario\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
 C:\Users\Usuario\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\ref\Proyecto.dll
 C:\Users\Usuario\Documents\GitHub\ProyectoHJCC\Proyecto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Usuario\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\BCrypt-Net-Next.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoHJCC\Proyecto\bin\Debug\net8.0\System.Formats.Asn1.dll

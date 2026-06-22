@@ -3,28 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\controllers\\document_typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\controllers\\document_typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\controllers\\typeuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\controllers\\typeuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\models\\typeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\models\\typeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\extensions\\jwtextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\extensions\\jwtextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|c:\\users\\usuario\\documents\\github\\proyectohjcc\\proyecto\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE0CC98E-2D01-42BD-A44E-E9FDC321125C}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,79 +83,210 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.Production.json",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\appsettings.Production.json",
-              "RelativeDocumentMoniker": "Proyecto\\appsettings.Production.json",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\appsettings.Production.json",
-              "RelativeToolTip": "Proyecto\\appsettings.Production.json",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Proyecto\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T04:00:38.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document_TypeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Controllers\\Document_TypeController.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Controllers\\Document_TypeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Controllers\\Document_TypeController.cs",
+              "RelativeToolTip": "Proyecto\\Controllers\\Document_TypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T03:45:07.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Services\\JwtService.cs",
+              "RelativeToolTip": "Proyecto\\Services\\JwtService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T03:15:32.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Program.cs",
+              "RelativeToolTip": "Proyecto\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T03:07:38.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Extensions\\JwtExtensions.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Extensions\\JwtExtensions.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Extensions\\JwtExtensions.cs",
+              "RelativeToolTip": "Proyecto\\Extensions\\JwtExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T03:02:06.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Proyecto",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Proyecto.csproj",
+              "RelativeDocumentMoniker": "Proyecto\\Proyecto.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Proyecto.csproj",
+              "RelativeToolTip": "Proyecto\\Proyecto.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-21T20:40:42.941Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-22T03:00:45.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Proyecto\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T02:24:27.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "Proyecto\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T03:35:19.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Settings\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "Proyecto\\Settings\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T02:58:55.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Models\\User.cs",
+              "RelativeToolTip": "Proyecto\\Models\\User.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwE4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T02:16:50.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Data\\DataContext.cs",
+              "RelativeToolTip": "Proyecto\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T02:11:50.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Models\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "Proyecto\\Models\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T02:10:53.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Proyecto\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T02:09:41.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Proyecto\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\appsettings.Development.json",
               "RelativeToolTip": "Proyecto\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-06-21T20:40:40.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Proyecto.csproj",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Proyecto.csproj",
-              "RelativeDocumentMoniker": "Proyecto\\Proyecto.csproj",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Proyecto.csproj",
-              "RelativeToolTip": "Proyecto\\Proyecto.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-21T05:11:32.488Z",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Proyecto\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Proyecto\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T02:22:51.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Document_TypeController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Controllers\\Document_TypeController.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Controllers\\Document_TypeController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Controllers\\Document_TypeController.cs",
-              "RelativeToolTip": "Proyecto\\Controllers\\Document_TypeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:51:32.39Z",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "Proyecto\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\appsettings.Production.json",
+              "RelativeToolTip": "Proyecto\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-21T20:40:42.941Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TypeUsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Controllers\\TypeUsersController.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Controllers\\TypeUsersController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Controllers\\TypeUsersController.cs",
-              "RelativeToolTip": "Proyecto\\Controllers\\TypeUsersController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:24:33.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TypeUser.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Models\\TypeUser.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Models\\TypeUser.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectoHJCC\\Proyecto\\Models\\TypeUser.cs",
-              "RelativeToolTip": "Proyecto\\Models\\TypeUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T22:30:18.219Z"
             }
           ]
         }

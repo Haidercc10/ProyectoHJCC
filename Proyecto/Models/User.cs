@@ -78,7 +78,7 @@ namespace Proyecto.Models
         public int TypeUser_Id { get; set; }
         public TypeUser? TypeUsers { get; set; }
 
-        [Column(TypeName = "char(1)")]
-        public string? Us_Genre { get; set; }
+        /*[Column(TypeName = "char(1)")]
+        public string? Us_Genre { get; set; }*/
     }
 }
